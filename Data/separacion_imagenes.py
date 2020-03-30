@@ -2,8 +2,8 @@ import math
 import os 
 import tensorflow as tf
 
-RUTA_DATOS_ENTRENAMIENTO = "./DataNous/Caso_Dificil/Entrenamiento/*/*.png"
-RUTA_DATOS_VALIDACION = "./DataNous/Caso_Dificil/Validacion/"
+RUTA_DATOS_ENTRENAMIENTO = "./DataNous/Caso12/Entrenamiento/*/*.png"
+RUTA_DATOS_VALIDACION = "./DataNous/Caso12/Validacion/"
 PORCENTAJE_DATOS_VALIDACION = 0.1
 
 if __name__ == "__main__":
